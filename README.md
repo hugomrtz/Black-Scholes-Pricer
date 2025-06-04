@@ -1,6 +1,6 @@
 # Black-Scholes-Pricer
 
-This project implements a basic yet complete Black-Scholes model for pricing European call and put options.
+This project implements a basic Black-Scholes model for pricing European call and put options.
 
 It calculates:
 - Theoretical prices of call and put options
